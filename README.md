@@ -2,7 +2,7 @@
 ## Project: Data Visualization along with trend analysis using Python/Tableau
 This is a visualization of all Game Categories in the dataset with respect to their Total Ratings, Installs(in millions), Growth in 30 and 60 days and ranking the top 3 Most Rated and top 20 Most Installed games by category.
 
-## Technologies
+## Technologies Used
 * Python version: 3.9.2
 * Numpy version: 1.20.1
 * Pandas version: 1.2.3
@@ -11,7 +11,7 @@ This is a visualization of all Game Categories in the dataset with respect to th
 * Streamlit version: 0.88.0
 
 ## Install
-The project requires ```Python``` and following python libraries:
+The project requires ```Python``` and following Python Libraries:
 
 Numpy:
 ```
@@ -63,4 +63,4 @@ Royce: [LinkedIn](https://www.linkedin.com/in/royce-d-cunha-4ba028202) [Github](
 
 Sandesh: [LinkedIn](https://www.linkedin.com/in/sandesh-yadav-361b671b2) [Github](https://github.com/SandeshDaddy)
 
-Vivek: [LinkedIn]() [Github]()
+Vivek: [LinkedIn](https://www.linkedin.com/in/vivek-pinto-66b8a01bb/) [Github](https://github.com/vivekpinto)
